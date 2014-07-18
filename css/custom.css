@@ -1,0 +1,49 @@
+/* Importación de Fuentes de Google - Nunito / Open Sans */
+@import url(http://fonts.googleapis.com/css?family=Nunito:300,700|Open+Sans);
+
+/* Declarar fuentes para textos de mi Página */
+h1, h2, h3, h4 {
+	font-family: "Nunito", sans-serif;
+	font-weight: 700;
+}
+
+/* Estilos para Articles */
+
+article {
+	border-radius: 15px;
+	color: #fff;
+	margin: 15px;
+	padding: 15px;
+}
+
+#p01 {
+	background-color: #f00;
+}
+
+#p02 {
+	background-color: #f50;
+}
+
+#p03 {
+	background-color: #fa0;
+}
+
+#p04 {
+	background-color: #fc0;
+}
+
+#p05 {
+	background-color: #0d0;
+}
+
+#p06 {
+	background-color: #0d8;
+}
+
+#p07 {
+	background-color: #05f;
+}
+
+#p08 {
+	background-color: #008;
+}
